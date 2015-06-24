@@ -1,9 +1,23 @@
 body {
   font-family:Arial;
   color:purple;
-  background-color:cyan;
+  background-color:#00ffff;
 }
 
 .intro {
   color:white;
+  text-align:center;
+}
+
+.content {
+  width:700px;
+  background-color:#ffffff;
+  border: 5px purple solid;
+  padding:20px;
+  margin:0 auto;
+  margin-bottom:20px;
+}
+
+.content img {
+  width:700px;
 }
